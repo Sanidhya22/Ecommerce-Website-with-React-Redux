@@ -7,9 +7,9 @@ Ecommerce-Website-with-React-Redux with JSON server to Fetch Mock Data
 # Home page
 ![](https://github.com/Sanidhya22/Ecommerce-Website-with-React-Redux/blob/master/Reactprojects/Ecom%20Home.gif)
 
-# Cart
+# Orders
 ![](https://github.com/Sanidhya22/Ecommerce-Website-with-React-Redux/blob/master/Reactprojects/Ecom%20Orders.png)
 
-# Orders
+# Cart
 ![](https://github.com/Sanidhya22/Ecommerce-Website-with-React-Redux/blob/master/Reactprojects/Ecom%20Cart.gif)
 
